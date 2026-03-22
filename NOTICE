@@ -1,0 +1,17 @@
+NOTICE — Third-Party Software Attribution
+==========================================
+
+This repository (pitstop) is based on Pi-hole.
+
+Original Project: Pi-hole
+Original Repository: https://github.com/pi-hole/pi-hole
+Original License: EUPL-1.2
+
+The original code is copyright its respective authors and is used in
+compliance with the EUPL-1.2 license. BlackRoad OS, Inc.
+modifications and additions are proprietary.
+
+A copy of the original EUPL-1.2 license can be found at:
+https://github.com/pi-hole/pi-hole/blob/main/LICENSE
+
+© 2024-2026 BlackRoad OS, Inc. All rights reserved for modifications.
