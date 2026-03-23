@@ -1,3 +1,11 @@
+# pitstop
+
+> PitStop — Sovereign DNS filtering. BlackRoad fork of Pi-hole. Network-wide ad blocking on Alice.
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem — [BlackRoad-OS-Inc](https://github.com/BlackRoad-OS-Inc)
+
+---
+
 # PitStop — BlackRoad Road Fleet
 
 > **Sovereign DNS filtering and ad blocking.** Fork of [Pi-hole](https://github.com/pi-hole/pi-hole).
